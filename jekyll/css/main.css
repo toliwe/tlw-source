@@ -31,10 +31,12 @@ h3,h4,
 }
 a {
   color: #008AFF;
+  color: #B30047;
 }
 a:hover,
 a:focus {
   color: #0085a1;
+  color: #FF0065;
 }
 blockquote {
   color: #808080;
