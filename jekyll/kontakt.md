@@ -4,8 +4,6 @@ title: Kontakt
 subtitle: So erreicht Ihr uns.
 ---
 
-Kontakt
-
 Ihr könnt uns unter *total-liberation-events (auf) riseup (punkt) net* eine Mail schreiben, wenn Ihr ein Anliegen habt.
 
 Wir haben auch einen PGP Key mit dem Fingerprint:
