@@ -11,6 +11,7 @@ layout: base
       {{ content }}
 
     {% if site.breadcrumbs.enable %}
+      <hr />
       <div>
       {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
       {% assign num_parts = url_parts | number_of_words %}

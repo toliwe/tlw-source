@@ -8,9 +8,9 @@ Programm Freitag, 29.07.2016
 ---
 
 * 17:00 – [Die Tierbewegung: Spaltung oder Differenzierung](die-tierbewegung)
-* 18:15 – Was ist Anarcha-Feminismus?
-* 19:30 – Piddy
-* 20:45 – FaulenzA
+* 18:15 – [Was ist Anarcha-Feminismus?](anarchafem.md)
+* 19:30 – [Piddy](piddy)
+* 20:45 – [FaulenzA](faulenza)
 * 22:00 – offene Bühne
 
 **Infostand**: antifaschistische tierbefreier_innen Dortmund  
