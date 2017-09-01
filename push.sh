@@ -12,6 +12,7 @@ if [ "$(git config --get user.email)" != "nothing@example.com" ]; then
   exit 1
 fi
 
-git commit . -m "page update $(date '+%F')"
+git add *
+git commit -m "page update $(date '+%F')"
 git pull origin master
 git push origin master
